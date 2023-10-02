@@ -14,11 +14,13 @@ redirect_from:
 
 Education background
 ======
-🏫I pursued my undergraduate education from 2019 to 2023 at Beijing University of Chemical Technology, majoring in Computer Science and Technology.
 
+![buct](/images/buct.jpeg){: .align-right width="100px"}
+🏫I pursued my undergraduate education from 2019 to 2023 at Beijing University of Chemical Technology, majoring in Computer Science and Technology. 
+
+![ecnu](/images/ecnu.png){: .align-right width="100px"}
 🏫I will be pursuing my master's degree in Software Engineering at East China Normal University from 2023 to 2026.
 
-Many of the features of dynamic content management systems (like Wordpress) can be achieved in this fashion, using a fraction of the computational resources and with far less vulnerability to hacking and DDoSing. You can also modify the theme to your heart's content without touching the content of your site. If you get to a point where you've broken something in Jekyll/HTML/CSS beyond repair, your markdown files describing your talks, publications, etc. are safe. You can rollback the changes or even delete the repository and start over -- just be sure to save the markdown files! Finally, you can also write scripts that process the structured data on the site, such as [this one](https://github.com/academicpages/academicpages.github.io/blob/master/talkmap.ipynb) that analyzes metadata in pages about talks to display [a map of every location you've given a talk](https://academicpages.github.io/talkmap.html).
 
 Getting started
 ======
