@@ -15,10 +15,10 @@ redirect_from:
 Education background
 ======
 
-![buct](/images/buct.jpeg){: .align-right width="80px"}
+![buct](/images/buct.jpeg){: .align-right width="70px"}
 🏫I pursued my undergraduate education from 2019 to 2023 at Beijing University of Chemical Technology, majoring in Computer Science and Technology. 
 
-![ecnu](/images/ecnu.png){: .align-right width="80px"}
+![ecnu](/images/ecnu.png){: .align-right width="70px"}
 🏫I will be pursuing my master's degree in Software Engineering at East China Normal University from 2023 to 2026.
 
 
@@ -30,3 +30,4 @@ Interests and Hobbies
 
 👾In my free time, I enjoy playing games, particularly League of Legends🎮, Battlefield V, and Battlefield 1, among others.
 
+📚I enjoy reading and I have an interest in books related to literature, politics, and philosophy.
