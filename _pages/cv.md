@@ -14,45 +14,28 @@ Education
 * B.S. in Beijing, Beijing University of Chemical Technology, majoring in Computer Science and Technology, 2023
 * M.S. in Shanghai, East China Normal University, majoring in Software Engineering, 2026(expected)
 
-Work experience
+Project experience
 ======
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+* 2023.1: 极简版抖音 后端开发
+字节跳动青训营项目。使用 Go 语言 Gin 框架以及 Gorm 框架结合 MySQL 进行后端开发。实现视频投稿、视频流推送、点赞、评论、关注等操作。
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* 2022.11: 基于 Fabric 的 SQL Online Judge 平台开发(毕业设计) 全栈开发
+开发实现一个自动评测 SQL 语句的练习竞赛平台。Go 语言 Gin 框架以及 Gorm 框架使用 Redis 与 MySQL 进行开发，实现对用户提交答案的 评测，并将关键信息使用 Fabric 存储于区块链网络，增强平台数据安全性。使用 Redis 缓存用户提交答案与判题结果以提升判题速度，编写高 性能代码，能运用于高并发场景，并设计编写前端页面。主要实现功能: 学生、老师、管理员账户管理、班级管理、发布作业、竞赛、判题、 信息上链存储。
   
-Skills
+Awards
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
-
-Publications
-======
-  <ul>{% for post in site.publications %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
-======
-  <ul>{% for post in site.talks %}
-    {% include archive-single-talk-cv.html %}
-  {% endfor %}</ul>
-  
-Teaching
-======
-  <ul>{% for post in site.teaching %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* 2022 年蓝桥杯程序设计大赛 Python 组北京赛区 A 组一等奖
+* 2022 年蓝桥杯程序设计大赛 Python 组全国 A 组三等奖
+* 2022 年互联网+大学生创新创业竞赛北京市三等奖
+* 2021 年高校团体程序设计天梯赛全国个人三等奖
+* 2021 年全国高校计算机能力挑战赛程序设计赛-Python全国二等奖
+* 2021 年全国高校计算机能力挑战赛程序设计赛-Python 华北一等奖
+* 2021 年全国高校计算机能力挑战赛人工智能应用赛全国二等奖(NLP 方向)
+* 2021 年全国高校计算机能力挑战赛人工智能应用赛华北三等奖(NLP 方向)
+* 2021 年高校团体程序设计天梯赛北京市团队三等奖
+* 2021 年 INTEL-OPENVINO 视觉集训营北京化工大学站团队一等奖
+* 2021 年第六届河北省大学生程序设计大赛二等奖
+* 2020 年第五届河北省大学生程序设计大赛二等奖
+* 2020 年蓝桥杯程序设计大赛省级比赛 C/C++组北京赛区三等奖
+* 2019 北京化工大学程序设计比赛新生赛二等奖
+* 2022 年互联网+大学生创新创业竞赛北京市三等奖
