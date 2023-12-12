@@ -22,10 +22,13 @@ Education background
 🏫I will be pursuing my master's degree in Software Engineering at East China Normal University from 2023 to 2026.
 
 
-Interests and Hobbies
+About Me
 ======
 
 ![NewJeans](/images/SuperShy.png){: .align-right width="260px"}
+
+💙I have a lovely girlfriend.
+
 💪🏽I often go to the gym and enjoy playing basketball🏀 and running🏃.
 
 💕I enjoy K-pop and my favorite girl groups include TWICE, NewJeans, LE SSERAFIM, ITZY, and aespa. As for my favorite idols, I admire Nayeon, Tzuyu, Mina, Haerin, Minji, Hanni, Yeji, Yuna, Karina, Taeyeon, and many others.
