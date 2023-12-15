@@ -27,7 +27,7 @@ About Me
 
 ![NewJeans](/images/SuperShy.png){: .align-right width="260px"}
 
-💙I have a lovely girlfriend.
+💙I have a lovely Korean girlfriend.
 
 💪🏽I often go to the gym and enjoy playing basketball🏀 and running🏃.
 
