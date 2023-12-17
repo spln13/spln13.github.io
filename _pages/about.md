@@ -31,7 +31,7 @@ About Me
 
 💪🏽I often go to the gym and enjoy playing basketball🏀 and running🏃.
 
-💕I enjoy K-pop and my favorite girl groups include TWICE, NewJeans, LE SSERAFIM, ITZY, and aespa. As for my favorite idols, I admire Nayeon, Tzuyu, Mina, Haerin, Minji, Hanni, Yeji, Yuna, Karina, Taeyeon, and many others.
+💕I enjoy K-pop and my favorite girl groups include TWICE, NewJeans, LE SSERAFIM, ITZY, and aespa. As for my favorite idols, I admire Nayeon, Tzuyu, Mina, Haerin, Minji, Hanni, Sakura, Yeji, Karina, Taeyeon, and many others.
 
 👾In my free time, I enjoy playing games, particularly League of Legends🎮, Battlefield V, and Battlefield 1, among others.
 
