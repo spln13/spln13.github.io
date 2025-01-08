@@ -30,14 +30,6 @@ TikTok Local Service Backend  Development
 
 数据安全 后端开发
 
-需求概述：为了监管需要，向有关政府部门提供站内数据推送和查询。
-
-1. 基于B站自研微服务框架Kratos及其组件(消息队列Databus, 异步事件处理组件Railgun等), 以及MySQL,
-TiDB, Redis, Kafka, Elasticsearch进行开发。与B站各个业务方(稿件、评论、弹幕、数据平台等)对接，通过消息
-队列(Databus, Kafka)交互，聚合消息后落表(MySQL, TiDB)存储。
-2. 设计数据库表结构和索引优化查询。根据需求设计过滤策略逻辑，过滤站内的风险数据。
-3. 实现用户投稿分析数据、稿件IP数据、稿件OCR数据、活跃账号数据等推送。
-
 
 Project Experience
 ======
