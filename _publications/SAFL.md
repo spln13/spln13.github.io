@@ -3,7 +3,7 @@ title: "SAFL: Structure-Aware Personalized Federated Learning via Client-Specifi
 collection: publications
 permalink: /publication/2025-2-15-SAFL
 excerpt: 'My paper will be published soon'
-date: 2009-10-01
+date: nil
 venue: 'Journal 1'
 paperurl: 'https://arxiv.org/abs/2501.18659'
 citation: 'Nan Li, Xiaolu Wang, Xiao Du, Puyu Cai, Ting Wang.'
