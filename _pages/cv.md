@@ -18,8 +18,12 @@ Education
 
 Working Experience
 =====
+**北京字节跳动科技有限公司 2025年5月至今**
+推荐系统架构 后端开发
 
-**北京字节跳动科技有限公司 2024年12月至今**
+
+
+**北京字节跳动科技有限公司 2024年12月-2025年5月**
 
 TikTok Local Service Backend  Development
 
@@ -28,7 +32,7 @@ TikTok Local Service Backend  Development
 
 **上海哔哩哔哩科技有限公司 2024年07月-2024年9月**
 
-数据安全 后端开发
+审核平台 后端开发
 
 
 Project Experience
