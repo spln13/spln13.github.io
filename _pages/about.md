@@ -23,7 +23,7 @@ Education background
 🏫I will be pursuing my master's degree in Software Engineering at East China Normal University from 2023 to 2026.
 
 
-Work Experience
+Internship
 ======
 
 ![Bilibili](/images/bilibili-logo.png){: .align-right width="70px"}
