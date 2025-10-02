@@ -40,12 +40,12 @@ mainly responsible for the development of the recommendation system architecture
 About Me
 ======
 
-![NewJeans](/images/SuperShy.png){: .align-right width="260px"}
+![TWICE](/images/TWICE.jpg){: .align-right width="260px"}
 
 
 💪🏽I often go to the gym and enjoy playing basketball🏀 and running🏃.
 
-💕I enjoy K-pop and my favorite girl groups include TWICE, NewJeans, LE SSERAFIM, ITZY, and aespa. As for my favorite idols, I admire Yeji, Nayeon, Tzuyu, Mina, Haerin, Minji, Karina, Taeyeon, and many others.
+💕I enjoy K-pop and my favorite girl group is TWICE. As for my favorite idols, I admire Nayeon, Tzuyu, Mina, Sana, Yeji.
 
 🇰🇷In my spare time, I am learning Korean. 여가 시간에 저는 한국어를 배우고 있습니다.
 
