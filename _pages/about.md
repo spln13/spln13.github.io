@@ -9,6 +9,8 @@ redirect_from:
 
 ---
 
+
+
 👨🏻‍💻I am currently focusing on the field of machine learning, specifically researching the collaborative use of large and small models and personalized enhancement techniques for small models.
 
 👨🏻‍💻I am highly interested in backend development and recommendation system architecture. My primary programming language is Go (Golang), and I also have proficiency in using C++ and Python.
@@ -26,15 +28,18 @@ Education background
 Internship
 ======
 
-![Bilibili](/images/bilibili-logo.png){: .align-right width="70px"}
-💻 From July 2024 to September 2024, I worked as a Backend Development Intern at [Bilibili](https://www.bilibili.com), where I was primarily responsible for the development and maintenance of a data reporting system for regulatory authorities.
+![ByteDance](/images/bytedance-logo.png){: .align-right width="140px"}
+💻 Since May 2025, I have worked as a Backend Development Intern at [Bytedance](https://www.bytedance.com),
+mainly responsible for the architecture design and optimization of the recommendation system for Douyin's social and creative tools. I successfully obtained and accepted the return offer upon the completion of my internship.
+
 
 ![TikTok](/images/tiktok-logo.png){: .align-right width="70px"}
 💻 From December 2024 to May 2025, I worked as a Backend Development Intern at [TikTok](https://www.tiktok.com), ByteDance, primarily responsible for the development of TikTok's local service business.
 
-![ByteDance](/images/bytedance-logo.png){: .align-right width="140px"}
-💻 Since May 2025, I have worked as a Backend Development Intern at [Bytedance](https://www.bytedance.com),
-mainly responsible for the development of the recommendation system architecture.
+![Bilibili](/images/bilibili-logo.png){: .align-right width="70px"}
+💻 From July 2024 to September 2024, I worked as a Backend Development Intern at [Bilibili](https://www.bilibili.com), where I was primarily responsible for the development and maintenance of a data reporting system for regulatory authorities.
+
+
 
 
 About Me
@@ -48,6 +53,8 @@ About Me
 💕I enjoy K-pop and my favorite girl group is TWICE. As for my favorite idols, I admire Nayeon, Tzuyu, Mina, Sana, Yeji.
 
 🇰🇷In my spare time, I am learning Korean. 여가 시간에 저는 한국어를 배우고 있습니다.
+
+🎬I love watching TV shows. Recently, I have finished watching the American series Stranger Things and the Korean drama Anna.
 
 👾In my free time, I enjoy playing games, particularly League of Legends🎮, Battlefield V, and Battlefield 1, among others.
 
